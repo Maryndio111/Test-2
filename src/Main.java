@@ -2,7 +2,7 @@ public class Main {
         public static void main(String[] args) {
 
                 Person[] array = new Person[]{
-                        new Person("Jack",20),
+                        new Person("mary",20),
                         new Person("John",23),
                         new Person("Poul",27),
                         new Person("Nick",22),
